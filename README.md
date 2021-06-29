@@ -1,0 +1,2 @@
+# gokk
+learn git
